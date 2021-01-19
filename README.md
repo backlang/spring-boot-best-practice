@@ -53,9 +53,7 @@ Spring Boot 最佳实践，更多正在更新中……
 
 以上仅为部分教程，太多了，这里不能全部展示，这里仅不定期更新维护示例代码。
 
-更多教程请在Java技术栈（id: javastack）公众号回复：boot，获取我整理的最全、最新的 Spring Boot 教程，微信公众号阅读更全、更及时！
-
-![](http://img.javastack.cn/18-11-16/79719805.jpg)
+- [Spring Boot 异步框架的使用](https://blog.csdn.net/weixin_34356555/article/details/88039687)
 
 
 
